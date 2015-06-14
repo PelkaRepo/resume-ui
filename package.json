@@ -1,0 +1,64 @@
+{
+  "name": "cafe-ui",
+  "version": "1.0.0",
+  "description": "A website user interface designed to serve a cafe site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PelkaRepo/cafe-ui.git"
+  },
+  "keywords": [
+    "cafe",
+    "angularjs",
+    "javascript",
+    "js",
+    "espresso",
+    "coffee",
+    "website",
+    "ui",
+    "node",
+    "npm",
+    "gulp"
+  ],
+  "author": "Arnold Pelka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PelkaRepo/cafe-ui/issues"
+  },
+  "homepage": "https://github.com/PelkaRepo/cafe-ui",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "connect-livereload": "^0.5.3",
+    "express": "^4.12.4",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-embedlr": "^0.5.2",
+    "gulp-help": "^1.6.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-less": "^3.0.3",
+    "gulp-livereload": "^3.8.0",
+    "gulp-ng-annotate": "^1.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-serve": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.5",
+    "gulp-watch": "^4.2.4",
+    "gulp-webserver": "^0.9.1",
+    "jasmine": "^2.3.1",
+    "karma": "^0.12.36",
+    "moment": "^2.10.3",
+    "opn": "^2.0.0",
+    "protractor": "^2.1.0",
+    "rimraf": "^2.4.0",
+    "tiny-lr": "^0.1.5"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "cafe-ui",
+  "version": "1.0.0",
+  "homepage": "https://github.com/PelkaRepo/cafe-ui",
+  "authors": [
+    "Arnold Pelka"
+  ],
+  "description": "A website user interface designed to serve a cafe site",
+  "main": "index.html",
+  "keywords": [
+    "cafe",
+    "angularjs",
+    "javascript",
+    "js",
+    "espresso",
+    "coffee",
+    "website",
+    "ui",
+    "node",
+    "npm",
+    "gulp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angularjs": "~1.4.0",
+    "lodash": "~3.9.3",
+    "angular-route": "~1.4.0"
+  }
+}
