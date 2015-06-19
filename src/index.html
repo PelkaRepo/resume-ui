@@ -4,22 +4,33 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css"
-	href="./css/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="./css/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="./css/ngDialog/css/ngDialog.min.css">
 <script src="./js/angularjs/angular.min.js"></script>
 <script src="./js/angular-route/angular-route.min.js"></script>
 <script src="./js/jquery/dist/jquery.min.js"></script>
 <script src="./js/lodash/lodash.min.js"></script>
 <script src="./js/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="./js/ngDialog/js/ngDialog.min.js"></script>
 
 <!-- Local JS Resources -->
 <script src="./js/app.js"></script>
 <script src="./js/app.config.js"></script>
 <script src="./js/controllers/main.js"></script>
-<title>Cafe Shop</title>
+<script src="./js/controllers/menu.js"></script>
+<script src="./js/controllers/catering.js"></script>
+<script src="./js/controllers/games.js"></script>
+<script src="./js/controllers/options.js"></script>
+<script src="./js/directives/nav.js"></script>
+
+<!-- Local CSS Resources -->
+<link rel="stylesheet" type="text/css" href="./css/local.css">
+<title>Caffèspresso</title>
 </head>
 
 <body class="container">
-<ng-view></ng-view>
+	<nav-main></nav-main>
+
+	<ng-view></ng-view>
 </body>
 </html>

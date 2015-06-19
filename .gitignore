@@ -1,6 +1,7 @@
 # Eclipse artifacts
 .project
 .tern-project
+.classpath
 
 # Logs
 logs

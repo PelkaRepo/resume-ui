@@ -1,0 +1,33 @@
+<nav ng-controller="options" class="navbar navbar-default">
+  <div class="container-fluid">
+        <a class="navbar-brand" href="#/">
+          <img class="img-responsive" ng-src="./img/logoclear.png">
+        </a>
+        <div class="navbar-left">
+          <address>
+            <strong>Caffèspresso</strong><br/>
+            <em>Gaskins Place Shopping Center</em><br/>
+            1127 Gaskins Road<br/>
+            Richmond, VA 23238<br/>
+            <abbr title="Phone">P:</abbr> <a href="tel:+18043504504">(804) 350-4504</a><br/>
+            <a ng-href="#/"><button type="button" class="btn btn-default">Click for other locations</button></a>
+          </address>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a ng-href="#/home">Home</a></li>
+            <li><a ng-href="#/menu">Menu</a></li>
+            <li><a ng-href="#/catering">Catering</a></li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Offerings<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#/" ng-click="games()">Italian Games / Book Exchange</a></li>
+                <li><a href="#/" ng-click="classes()">Language Classes</a></li>
+                <li><a href="#/" ng-click="travel()">Trips to Italy</a></li>
+                <li><a href="#/" ng-click="music()">Music</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+</nav>
