@@ -1,5 +1,9 @@
 angular.module('app').controller('options', ['$scope', 'ngDialog', function($scope, ngDialog) {
-      $scope.games = function ($scope, ngDialog) {
+      $scope.locations = function () {
+          ngDialog.open({ template: '../../views/locations.html' });
+      };
+      
+      $scope.games = function () {
           ngDialog.open({ template: '../../views/games.html' });
       };
 
