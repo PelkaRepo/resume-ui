@@ -1,11 +1,11 @@
 {
-  "name": "cafe-ui",
+  "name": "resume-ui",
   "version": "1.0.0",
-  "homepage": "https://github.com/PelkaRepo/cafe-ui",
+  "homepage": "https://github.com/PelkaRepo/resume-ui",
   "authors": [
     "Arnold Pelka"
   ],
-  "description": "A website user interface designed to serve a cafe site",
+  "description": "A website user interface designed generate a responsive resume UI",
   "main": "index.html",
   "keywords": [
     "cafe",
@@ -32,7 +32,6 @@
     "bootstrap": "~3.3.4",
     "angularjs": "~1.4.0",
     "lodash": "~3.9.3",
-    "angular-route": "~1.4.0",
-    "ngDialog": "~0.4.0"
+    "angular-route": "~1.4.0"
   }
 }
