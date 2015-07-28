@@ -1,9 +1,24 @@
 <div class="jumbotron" ng-controller='main'>
 	<section class="contents">
-		<h2>Cafe Shop</h2>
+		<div ng-model="main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content"><strong>{{job}}</strong></div>
+			<em>
+			<div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content">{{other}}</div>
+			<div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{timeFrame}}</div>
+			</em>
+		</div>
+		<div class="row">
+			<em>
+			<div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content">{{level}}</div>
+			<div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content"></div>
+			<div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{loc}}</div>
+			</em>
+		</div>
 
 		<ul>
-			<li ng-repeat="technology in technologies">{{technology}}</li>
+			<li ng-repeat="qualifier in qualifiers">{{qualifier}}</li>
 		</ul>
+		</div>
 	</section>
 </div>

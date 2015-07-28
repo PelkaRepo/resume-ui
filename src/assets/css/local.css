@@ -3,17 +3,53 @@
 /*
  * Navigation Bar Styles
  */
-.navbar-brand {
-  height: 100%;
-  padding: 1 1 0 0;
+/*
+ * Maxes all sizes at 8.5" x 11" paper size for printing
+ * and all minimums to 300px (smaller than most modern devices)
+ */
+@media all and (max-width:2550px) and (max-height:3300px), (max-width:300px) {
+  .container {
+    max-width: 2550px;
+    min-width: 300px;
+    max-height: 3300px;
+  }
 }
 
-.img-responsive {
-  height: 120px;
-  max-height: 100%;
-  max-width: auto;
+@media all and (min-width:300px) and (max-width:2550px), (max-width:300px) {
+  #name-hdr {
+    text-align: center;
+    }
 }
 
-.navbar-left {
-  padding-left: 5%;
+@media all and (max-width:2550px) and (max-height:3300px) {
+  #addr-inline-row {
+    padding-right: 14.5em;
+    padding-left: 14.5em;
+    padding-bottom: 1em;
+  }
+}
+
+@media all and (min-width:300px) {
+  #addr-inline-row {
+    padding-right: 0em;
+    padding-left: 0em;
+    padding-bottom: 0em;
+  }
+}
+
+@media all and (max-width:1200px) {
+  .qualifier-content {
+    text-align: left;
+    font-size: 1em;
+  }
+}
+
+@media all and (min-width:1200px) and (max-width:3300px) {
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
 }
