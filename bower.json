@@ -8,12 +8,10 @@
   "description": "A website user interface designed generate a responsive resume UI",
   "main": "index.html",
   "keywords": [
-    "cafe",
+    "resume",
     "angularjs",
     "javascript",
     "js",
-    "espresso",
-    "coffee",
     "website",
     "ui",
     "node",
@@ -32,6 +30,10 @@
     "bootstrap": "~3.3.4",
     "angularjs": "~1.4.0",
     "lodash": "~3.9.3",
-    "angular-route": "~1.4.0"
+    "angular-route": "~1.4.0",
+    "angular-sanitize": "~1.4.0"
+  },
+  "resolutions": {
+    "angular": "1.4.3"
   }
 }

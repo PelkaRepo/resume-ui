@@ -1,0 +1,17 @@
+<div class="row" ng-controller="main">
+    <div class="row" ng-repeat="grid in grids">
+      <div class="col-xs-12 col-md-2 col-lg-2">
+        <h6 ng-repeat="category in grid.categories" class="text-muted">{{category}}</h6>
+      </div>
+
+      <div class="col-xs-12 col-md-10 col-lg-10">
+        <table class="table table-striped">
+          <tbody>
+            <tr ng-repeat="skill in grid.skills">
+              <td ng-repeat="cell in skill.rows">{{cell}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+</div>

@@ -1,24 +1,18 @@
-<div class="jumbotron" ng-controller='main'>
-	<section class="contents">
-		<div ng-model="main">
+<div class="container" ng-controller="main">
+		<!-- Add new highlights for resume panel sections -->
 		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content"><strong>{{job}}</strong></div>
-			<em>
-			<div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content">{{other}}</div>
-			<div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{timeFrame}}</div>
-			</em>
-		</div>
-		<div class="row">
-			<em>
-			<div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content">{{level}}</div>
-			<div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content"></div>
-			<div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{loc}}</div>
-			</em>
+			<div class="row text-muted">
+				<h4 ng-bind="sections[0]" class="col-xs-12 col-sm-12 col-lg-12 tag"/>
+			</div>
+			<div class="highlight" ng-repeat="facet in facets">
+				<facet-bullets></facet-bullets>
+			</div>
 		</div>
 
-		<ul>
-			<li ng-repeat="qualifier in qualifiers">{{qualifier}}</li>
-		</ul>
+		<div class="highlight">
+			<div class="row text-muted">
+				<h4 ng-bind="sections[1]" class="col-xs-12 col-sm-12 col-lg-12 tag"/>
+			</div>
+			<facet-grids></facet-grids>
 		</div>
-	</section>
 </div>

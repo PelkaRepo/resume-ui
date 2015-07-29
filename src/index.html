@@ -10,6 +10,7 @@
 <script src="./js/jquery/dist/jquery.min.js"></script>
 <script src="./js/lodash/lodash.min.js"></script>
 <script src="./js/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="./js/angular-sanitize/angular-sanitize.min.js"></script>
 
 <!-- Local JS Resources -->
 <script src="./js/app.js"></script>
@@ -17,6 +18,9 @@
 <script src="./js/controllers/main.js"></script>
 <script src="./js/controllers/header-contents.js"></script>
 <script src="./js/directives/header-main.js"></script>
+<script src="./js/directives/facet-bullets.js"></script>
+<script src="./js/directives/facet-grids.js"></script>
+<script src="./js/directives/subnotes.js"></script>
 
 <!-- Local CSS Resources -->
 <link rel="stylesheet" type="text/css" href="./css/local.css">
@@ -25,7 +29,7 @@
 
 <body class="container">
 	<header-main></header-main>
-
 	<ng-view></ng-view>
+	<subnotes><subnotes>
 </body>
 </html>

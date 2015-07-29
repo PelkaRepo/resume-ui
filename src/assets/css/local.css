@@ -48,8 +48,18 @@
   .text-center {
     text-align: center;
   }
-  
+
   .text-right {
     text-align: right;
   }
+}
+
+.highlight {
+  border-bottom: 0.2em solid #EEE;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+.tag {
+  padding-left: 0em;
 }

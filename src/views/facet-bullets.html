@@ -1,0 +1,21 @@
+<div ng-controller="main">
+  <div ng-repeat="highlight in facet.highlights">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content"><strong>{{highlight.job}}</strong></div>
+      <em>
+      <div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content">{{highlight.other}}</div>
+      <div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{highlight.timeFrame}}</div>
+      </em>
+    </div>
+    <div class="row">
+      <em>
+      <div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content">{{highlight.level}}</div>
+      <div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content"></div>
+      <div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{highlight.loc}}</div>
+      </em>
+    </div>
+    <ul>
+      <li ng-repeat="qualifier in highlight.qualifiers">{{qualifier}}</li>
+    </ul>
+  </div>
+</div>
