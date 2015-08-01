@@ -1,5 +1,6 @@
 [
   {
+    "section" : "job",
     "highlights" : [
       {
         "job" : "Software Engineer",
@@ -20,6 +21,7 @@
     ]
   },
   {
+    "section" : "edu",
     "highlights" : [
       {
         "job" : "Pennsylvania State University",

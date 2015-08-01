@@ -32,7 +32,8 @@
     "lodash": "~3.9.3",
     "angular-route": "~1.4.0",
     "angular-sanitize": "~1.4.0",
-    "angular-resource": "~1.4.0"
+    "angular-resource": "~1.4.0",
+    "angular-underscore-module": "~1.0.1"
   },
   "resolutions": {
     "angular": "1.4.3"

@@ -1,6 +1,7 @@
 [
   {
-    "categories" : ["Platforms"],
+    "section" : "skills",
+    "categories" : "Platforms",
     "skills" : [
       {
         "rows" : ["Java","AngularJS","Is","Cool"]
@@ -17,7 +18,8 @@
     ]
   },
   {
-    "categories" : ["Coding Languages"],
+    "section" : "skills",
+    "categories" : "Coding Languages",
     "skills" : [
       {
         "rows" : ["Java","AngularJS","Is"]

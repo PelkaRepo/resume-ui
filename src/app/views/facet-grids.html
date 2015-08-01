@@ -1,7 +1,7 @@
 <div class="row" ng-controller="main">
-    <div class="row" ng-repeat="grid in grids">
+    <div class="row" ng-repeat="grid in content">
       <div class="col-xs-12 col-md-2 col-lg-2">
-        <h6 ng-repeat="category in grid.categories" class="text-muted">{{category}}</h6>
+        <h6 class="text-muted">{{grid.categories}}</h6>
       </div>
 
       <div class="col-xs-12 col-md-10 col-lg-10">
