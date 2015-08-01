@@ -1,12 +1,13 @@
 @charset "utf-8";
 
 /*
- * Navigation Bar Styles
+ * Custom Styles
  */
 /*
  * Maxes all sizes at 8.5" x 11" paper size for printing
  * and all minimums to 300px (smaller than most modern devices)
  */
+
 @media all and (max-width:2550px) and (max-height:3300px), (max-width:300px) {
   .container {
     max-width: 2550px;
@@ -52,6 +53,11 @@
   .text-right {
     text-align: right;
   }
+}
+
+.sub-highlight {
+  padding-bottom: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .highlight {

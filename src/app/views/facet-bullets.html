@@ -1,5 +1,5 @@
-<div ng-controller="main">
-  <div ng-repeat="highlight in facet.highlights">
+<div ng-controller="main" ng-repeat="facet in facets">
+  <div class="sub-highlight" ng-repeat="highlight in facet.highlights">
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content"><strong>{{highlight.job}}</strong></div>
       <em>

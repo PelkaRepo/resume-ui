@@ -11,12 +11,11 @@
     "url": "https://github.com/PelkaRepo/resume-ui.git"
   },
   "keywords": [
-    "cafe",
+    "resume",
+    "builder",
     "angularjs",
     "javascript",
     "js",
-    "espresso",
-    "coffee",
     "website",
     "ui",
     "node",
@@ -32,6 +31,7 @@
   "devDependencies": {
     "bower": "^1.4.1",
     "connect-livereload": "^0.5.3",
+    "del": "^1.2.0",
     "express": "^4.12.4",
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.1",
@@ -59,6 +59,8 @@
     "opn": "^2.0.0",
     "protractor": "^2.1.0",
     "rimraf": "^2.4.0",
+    "run-sequence": "^1.1.2",
     "tiny-lr": "^0.1.5"
-  }
+  },
+  "dependencies": {}
 }

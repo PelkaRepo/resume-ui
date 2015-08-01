@@ -1,0 +1,34 @@
+[
+  {
+    "highlights" : [
+      {
+        "job" : "Software Engineer",
+        "loc" : "Richmond, VA",
+        "level" : "Sr. Associate",
+        "other" : "Another Component",
+        "timeFrame" : "2015-Present",
+        "qualifiers" : [ "This is a qualifier", "Super cool action happened" ]
+      },
+      {
+        "job" : "Process Manager",
+        "loc" : "Richmond, VA",
+        "level" : "Associate",
+        "other" : "Another Component",
+        "timeFrame" : "2013-2015",
+        "qualifiers" : [ "Made process stuff", "Super cool BPM stuff happened" ]
+      }
+    ]
+  },
+  {
+    "highlights" : [
+      {
+        "job" : "Pennsylvania State University",
+        "loc" : "State College, PA",
+        "level" : "",
+        "other" : "Information Science and Technology, B.S.; Psychology, B.A.",
+        "timeFrame" : "Graduated 2011",
+        "qualifiers" : [ "This is a qualifier", "Super cool action happened" ]
+      }
+    ]
+  }
+]
