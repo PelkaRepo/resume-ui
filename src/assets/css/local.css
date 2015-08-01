@@ -16,10 +16,8 @@
   }
 }
 
-@media all and (min-width:300px) and (max-width:2550px), (max-width:300px) {
-  #name-hdr {
-    text-align: center;
-    }
+#name-hdr {
+  text-align: center;
 }
 
 @media all and (max-width:2550px) and (max-height:3300px) {
