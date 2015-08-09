@@ -5,13 +5,13 @@
   <div id="addr-inline-row" class="row container-fluid">
     <address>
       <em>
-        <div id="hdr-addr-1" class="small col-xs-12 col-sm-4 col-lg-3" ng-bind="personal[0].addr1"></div>
-        <div id="hdr-addr-2" class="small col-xs-12 col-sm-4 col-lg-1" ng-bind="personal[0].addr2"></div>
-        <div id="hdr-addr-3" class="small col-xs-12 col-sm-4 col-lg-3" ng-bind="personal[0].addr3"></div>
-        <div id="hdr-phone" class="small col-xs-12 col-sm-6 col-lg-2">
+        <div id="hdr-phone" class="small col-xs-12 col-sm-4 col-lg-2">
           <abbr title="Phone"></abbr>
           <a ng-bind="personal[0].phone" ng-href="{{personal[0].phoneEnc}}"></a>
         </div>
+        <div id="hdr-addr-1" class="small col-xs-12 col-sm-4 col-lg-3" ng-bind="personal[0].addr1"></div>
+        <div id="hdr-addr-2" class="small col-xs-12 col-sm-4 col-lg-1" ng-bind="personal[0].addr2"></div>
+        <div id="hdr-addr-3" class="small col-xs-12 col-sm-6 col-lg-3" ng-bind="personal[0].addr3"></div>
         <div id="hdr-email" class="small col-xs-12 col-sm-6 col-lg-3">
           <abbr title="Email"></abbr>
           <a ng-bind="personal[0].email" ng-href="{{personal[0].emailEnc}}"></a>

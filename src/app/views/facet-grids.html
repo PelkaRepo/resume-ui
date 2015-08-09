@@ -1,5 +1,5 @@
 <div class="row" ng-controller="main">
-  <div class="row" ng-repeat="grid in content">
+  <div class="row multi-grid-div" ng-repeat="grid in content">
     <div class="col-xs-12 col-md-2 col-lg-2">
       <h6 class="text-muted">{{grid.categories}}</h6>
     </div>
@@ -8,7 +8,7 @@
       <table class="table table-striped">
         <tbody>
           <tr ng-repeat="skill in grid.skills">
-            <td class="grid-cell" ng-repeat="cell in skill.rows">{{cell}}</td>
+            <td class="grid-cell" ng-repeat="cell in skill.rows track by $index">{{cell}}</td>
           </tr>
         </tbody>
       </table>
