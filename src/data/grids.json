@@ -1,35 +1,45 @@
-[
-  {
-    "section" : "skills",
-    "categories" : "Platforms",
-    "skills" : [
-      {
-        "rows" : ["Java","AngularJS","Is","Cool"]
-      },
-      {
-        "rows" : ["This","Is","Also","Neat"]
-      },
-      {
-        "rows" : ["This","Is","Also","JDK"]
-      },
-      {
-        "rows" : ["This","Is","Also",""]
-      }
-    ]
-  },
-  {
-    "section" : "skills",
-    "categories" : "Coding Languages",
-    "skills" : [
-      {
-        "rows" : ["Java","AngularJS","Is"]
-      },
-      {
-        "rows" : ["This","Is","Also"]
-      },
-      {
-        "rows" : ["This","Is","Also"]
-      }
-    ]
-  }
-]
+[{
+  "section": "skills",
+  "categories": "Platforms / OS",
+  "skills": [{
+    "rows": ["Spring Framework 3-4 / Springboot", "AngularJS", "Oracle Service Bus (OSB)", "Hudson CI Server"]
+  }, {
+    "rows": ["Java EE", "Twitter Bootstrap", "Hudson CI Server", "Jenkins CI Server"]
+  }, {
+    "rows": ["LAMP", "NoSQL & Relational Database", "Docker", "Windows XP-8.1"]
+  }, {
+    "rows": ["Bower", "NodeJS", "Gulp", "Jasmine"]
+  }, {
+    "rows": ["Karma", "Cordova / PhoneGap", "JUnit", "OS Package Managers (Homebrew/Yum/Chocolatey)"]
+  }, {
+    "rows": ["REST", "Google API & OAuth2.0", "Nexus Artifact Server", "Mac OSX / Linux"]
+  }, {
+    "rows": ["GitHub", "Subversion", "", ""]
+  }]
+}, {
+  "section": "skills",
+  "categories": "Coding Languages",
+  "skills": [{
+    "rows": ["Java", "Javascript", "HTML5", "CSS3"]
+  },{
+    "rows": ["PHP", "JSON", "XML", "YMAL"]
+  }, {
+    "rows": ["Maven/Ant Script", "MSSQL/MySQL", "MongoDB NoSQL", "Linux/Unix Script (KSH/SH)"]
+  }, {
+    "rows": ["WSDL", "R", "AHK Script", "VBA"]
+  }, {
+    "rows": ["Windows Batch Script", "", "", ""]
+  }]
+}, {
+  "section": "skills",
+  "categories": "Relevant Tools",
+  "skills": [{
+    "rows": ["Eclipse IDE", "IntelliJ", "R Statistical Software"]
+  },{
+    "rows": ["Tableau Desktop", "ICS Data Modeler", "VersionOne"]
+  }, {
+    "rows": ["Jira", "Clarity Portfolio Manager", "Browser Development Tools"]
+  }, {
+    "rows": ["Atom IDE", "All Microsoft Office Applications", ""]
+  }]
+}]

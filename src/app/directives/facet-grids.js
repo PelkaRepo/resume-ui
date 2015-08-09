@@ -1,4 +1,4 @@
-angular.module('app').directive('facetGrids', [ function() {
+angular.module('app').directive('facetGrids', [function() {
   return {
     restrict: 'EA',
     controller: 'main',
@@ -7,4 +7,4 @@ angular.module('app').directive('facetGrids', [ function() {
     },
     templateUrl: '../../views/facet-grids.html'
   };
-} ]);
+}]);

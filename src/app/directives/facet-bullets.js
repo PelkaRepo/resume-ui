@@ -1,4 +1,4 @@
-angular.module('app').directive('facetBullets', [ function() {
+angular.module('app').directive('facetBullets', [function() {
   return {
     restrict: 'EA',
     controller: 'main',
@@ -7,4 +7,4 @@ angular.module('app').directive('facetBullets', [ function() {
     },
     templateUrl: '../../views/facet-bullets.html'
   };
-} ]);
+}]);

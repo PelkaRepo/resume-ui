@@ -1,8 +1,8 @@
 @charset "utf-8";
-
 /*
  * Custom Styles
  */
+
 /*
  * Maxes all sizes at 8.5" x 11" paper size for printing
  * and all minimums to 300px (smaller than most modern devices)
@@ -36,6 +36,40 @@
   }
 }
 
+@media (max-width:500px) {
+  h1 {
+    font-size: 1.5em !important;
+  }
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+@media (max-width:630px) {
+  .borderless tbody tr td, .borderless tbody tr th, .borderless thead tr th {
+    font-size: 0.8em !important;
+  }
+}
+
+.borderless tbody tr td, .borderless tbody tr th, .borderless thead tr th {
+  border: none;
+}
+
+.float-right-align {
+  text-align: right;
+}
+
+@media (max-width:630px) {
+  .grid-cell {
+    font-size: 0.6em !important;
+  }
+}
+
+.grid-cell {
+  font-size: 0.8em
+}
+
 @media all and (max-width:1200px) {
   .qualifier-content {
     text-align: left;
@@ -43,11 +77,15 @@
   }
 }
 
+.achievement-content {
+  padding: 0;
+  margin: 0;
+}
+
 @media all and (min-width:1200px) and (max-width:3300px) {
   .text-center {
     text-align: center;
   }
-
   .text-right {
     text-align: right;
   }
@@ -66,4 +104,23 @@
 
 .tag {
   padding-left: 0em;
+}
+
+@media (max-width:570px) {
+  .tag-line {
+    top: -2.75em !important;
+    padding-left: 6.50em !important;
+    text-align: left !important;
+    font-size: 0.8em !important;
+  }
+}
+
+.tag-line {
+  max-height: 0em;
+  height: 0em;
+  padding-left: 5.5em;
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9em;
+  top: -2.15em;
 }
