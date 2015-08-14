@@ -6,7 +6,7 @@
 }, {
   "section": "job",
   "highlights": [{
-    "job": "Sr. Software Engineer & Technical Lead",
+    "job": "Sr. Software Engineer & Tech Lead",
     "loc": "Richmond, VA",
     "level": "Sr. Associate",
     "company": "Capital One",
@@ -18,8 +18,7 @@
       "Created human-centered, web-based interfaces to help visualize and manage various scaled agile-related processes using open sourced technology",
       "Utilized and created various micro-service, enterprise, and external web APIs",
       "Developed on MVC (model-view-controller) platform using open sourced technology stack",
-      "Provided various agile and technical trainings and keynotes horizontally through the company",
-      "Responsible and trusted for educating and breifing non-technical persons and leadership on technical subject matter",
+      "Responsible and trusted for educating, breifing, and providing keynotes to non-technical persons and leadership on technical subject matter",
       "Frequently provided feedback to external agile content management software company regarding Capital One's end-user experience"
     ],
     "achievements": [
@@ -72,7 +71,6 @@
   "section": "edu",
   "highlights": [{
     "job": "Pennsylvania State University",
-    "loc": "State College, PA",
     "timeFrame": "Graduated May 2011",
     "qualifiers": [
       "B.S. in Information Science and Technology, focused in Information Systems",
@@ -86,7 +84,7 @@
     "qualifiers": [
       "Certifications: BPM",
       "Development Methodologies/Tools:  Scrum Agile | Kanban | Gemba | Toyota/Shingo Practices | Design-Oriented Thinking | Trainer and Public Speaking experience",
-      "Conversational in elementary-level Japanese language, both written and spoken"
+      "Elementary-level Japanese language"
     ]
   }]
 }]

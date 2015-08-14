@@ -2,17 +2,17 @@
   "section": "skills",
   "categories": "Platforms / OS",
   "skills": [{
-    "rows": ["Spring Framework 3-4 / Springboot", "AngularJS", "Oracle Service Bus (OSB)", "Hudson CI Server"]
+    "rows": ["Spring Framework 3-4 | Springboot", "AngularJS", "Oracle Service Bus (OSB)", "Hudson CI Server"]
   }, {
     "rows": ["Java EE", "Twitter Bootstrap", "Hudson CI Server", "Jenkins CI Server"]
   }, {
-    "rows": ["LAMP", "NoSQL & Relational Database", "Docker", "Windows XP-8.1"]
+    "rows": ["LAMP", "NoSQL & Relational Database", "Docker", "Microsoft Windows"]
   }, {
     "rows": ["Bower", "NodeJS", "Gulp", "Jasmine"]
   }, {
-    "rows": ["Karma", "Cordova / PhoneGap", "JUnit", "OS Package Managers (Homebrew/Yum/Chocolatey)"]
+    "rows": ["Karma", "Cordova / PhoneGap", "JUnit", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
   }, {
-    "rows": ["REST", "Google API & OAuth2.0", "Nexus Artifact Server", "Mac OSX / Linux"]
+    "rows": ["REST", "Google API & OAuth2.0", "Nexus Artifact Server", "Mac OSX | Linux"]
   }, {
     "rows": ["GitHub", "Subversion", "", ""]
   }]
@@ -22,24 +22,18 @@
   "skills": [{
     "rows": ["Java", "Javascript", "HTML5", "CSS3"]
   },{
-    "rows": ["PHP", "JSON", "XML", "YMAL"]
+    "rows": ["PHP", "Data Markup Languages (JSON | XML | YMAL | WSDL)", "Windows Batch Script", "VBA"]
   }, {
-    "rows": ["Maven/Ant Script", "MSSQL/MySQL", "MongoDB NoSQL", "Linux/Unix Script (KSH/SH)"]
-  }, {
-    "rows": ["WSDL", "R", "AHK Script", "VBA"]
-  }, {
-    "rows": ["Windows Batch Script", "", "", ""]
+    "rows": ["Apache Build Scripts (Maven | Ant)", "MSSQL/MySQL", "MongoDB NoSQL", "Linux/Unix Script (KSH | SH)"]
   }]
 }, {
   "section": "skills",
   "categories": "Relevant Tools",
   "skills": [{
-    "rows": ["Eclipse IDE", "IntelliJ", "R Statistical Software"]
+    "rows": ["Eclipse IDE", "IntelliJ", "All Microsoft Office Applications"]
   },{
-    "rows": ["Tableau Desktop", "ICS Data Modeler", "VersionOne"]
+    "rows": ["Tableau Desktop", "ICS Data Modeler", "Agile Suites (Jira | VersionOne)"]
   }, {
-    "rows": ["Jira", "Clarity Portfolio Manager", "Browser Development Tools"]
-  }, {
-    "rows": ["Atom IDE", "All Microsoft Office Applications", ""]
+    "rows": ["Atom IDE", "R Statistical Software", "Browser Development Tools"]
   }]
 }]

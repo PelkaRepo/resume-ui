@@ -34,14 +34,14 @@
     <!-- Displays bulleted list of career qualifiers
          Displays in place of in-line references to minor work experience list
        -->
-    <ul ng-if="highlight.qualifiers[0].inlineJob === undefined">
+    <ul class="print-qualifier-pills" ng-if="highlight.qualifiers[0].inlineJob === undefined">
       <li ng-repeat="qualifier in highlight.qualifiers" ng-bind-html="qualifier" />
     </ul>
     <!-- Displays list of in-line past jobs
          Useful for displaying single-line references to minor work experience
          Displays in place of bulleted qualifiers list
        -->
-    <table class="table borderless" ng-if="highlight.qualifiers[0].inlineJob !== undefined">
+    <table class="table borderless print-inline-job" ng-if="highlight.qualifiers[0].inlineJob !== undefined">
       <tbody>
         <tr ng-repeat="inlineJobs in highlight.qualifiers">
           <td ng-repeat="inlineJob in inlineJobs.inlineJob track by $index" ng-class="setRightSideClass($index)">{{inlineJob}}</td>

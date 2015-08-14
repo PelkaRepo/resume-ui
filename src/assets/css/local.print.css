@@ -15,6 +15,9 @@
   nav {
     background-color: #E5E5E5 !important;
     display: block !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    top: -1em !important;
   }
   #print-hdr-identity {
     padding: 0;
@@ -46,7 +49,7 @@
   }
   h4 {
     color: gray !important;
-    font-size: 1em;
+    font-size: 0.8em;
   }
   .small {
     font-size: 0.8em;
@@ -56,18 +59,40 @@
     font-size: 0.7em;
   }
   .multi-grid-div {
-    padding-bottom: 0.5em;
-  }
-  .achievement-content {
-    font-size: 0.8em;
+    padding-bottom: 0.2em;
   }
   .highlight {
-    padding: 0em;
-    margin: 0em;
+    padding: 0;
+    margin: 0;
   }
   .sub-highlight {
     padding: 0.1em;
     margin: 0.1em;
+  }
+  .qualifier-content {
+    font-size: 0.6em !important;
+  }
+  .print-subnote {
+    text-align: center;
+    font-size: 0.7em !important;
+  }
+  .print-inline-job{
+    font-size: 0.7em;
+  }
+  .achievement-content, .print-qualifier-pills {
+    font-size: 0.9em;
+  }
+  .print-highlight-reducer, table, tbody, tr, td {
+    border-top: 0.1em !important;
+    border-bottom: 0.1em !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  h6 {
+    color: #d7d7d7 !important;
+    font-size: 0.8em !important;
   }
   td {
     padding: 0.2em !important;
@@ -87,6 +112,9 @@
     width: 83.33333333%
   }
 
+  .col-md-2 {
+    width: 15% !important;
+  }
   .col-sm-12 {
     width: 100%;
   }
