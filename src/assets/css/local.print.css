@@ -28,8 +28,10 @@
     color: black !important;
   }
   #hdr-phone, #hdr-addr-1, #hdr-addr-2, #hdr-addr-3, #hdr-email {
-    width: 20%!important;
-    max-width: 20%!important;
+    top: 1em !important;
+    font-size: 0.6em !important;
+    width: 20% !important;
+    max-width: 20% !important;
   }
   a:link:after {
     content: none;
