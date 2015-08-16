@@ -100,6 +100,11 @@ h1 {
   margin-bottom: 0.5em;
 }
 
+.highlight-hdr-name {
+  padding-bottom: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 .highlight-hdr {
   padding-bottom: 0.5em;
 }
@@ -116,7 +121,7 @@ h1 {
 
 @media (max-width:570px) {
   .tag-line {
-    top: -2.75em !important;
+    top: -3em !important;
     padding-left: 6.50em !important;
     text-align: left !important;
     font-size: 0.8em !important;
@@ -130,5 +135,5 @@ h1 {
   text-align: center;
   font-style: italic;
   font-size: 0.9em;
-  top: -2.15em;
+  top: -3em;
 }

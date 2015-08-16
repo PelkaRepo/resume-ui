@@ -66,6 +66,7 @@
     color: gray !important;
   }
   .tag-line {
+    top: -2.3em !important;
     font-size: 0.7em;
   }
   .multi-grid-div {
@@ -99,6 +100,10 @@
     padding-bottom: 0em !important;
     margin-top: 0em !important;
     padding-bottom: 0em !important;
+  }
+  .highlight-hdr-name {
+    padding-bottom: 0em;
+    margin-bottom: 0em;
   }
   .highlight-hdr {
     padding-bottom: 0.1em;

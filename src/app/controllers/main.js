@@ -24,7 +24,7 @@ angular.module('app').controller('main', ['$scope', 'ResumeApi', '_', function($
   $scope.subnotes = ResumeApi.query({
     endpointName: "subnotes"
   });
-  objTextOverflow(137);
+  objTextOverflow(133);
 
   /*
    * Add additional promises for each additional instance of
