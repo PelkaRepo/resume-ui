@@ -14,20 +14,16 @@
     <!-- Displays highlight details, such as company, job title, time frame worked, etc.
          These items are not required and will not display if data is omitted
        -->
-    <div class="row">
-      <div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content">
+    <div class="highlight-hdr row">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 qualifier-content">
         <strong>{{highlight.job}}</strong>
       </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center qualifier-content">
+        <strong>{{highlight.company}}</strong>
+      </div>
       <em>
-        <div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content">{{highlight.company}}</div>
-        <div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{highlight.timeFrame}}</div>
-      </em>
-    </div>
-    <div class="row">
-      <em>
-        <div class="col-xs-12 col-sm-6 col-lg-4 qualifier-content">{{highlight.level}}</div>
-        <div class="col-xs-12 col-sm-6 col-lg-4 text-center qualifier-content"></div>
-        <div class="col-xs-12 col-sm-6 col-lg-4 text-right qualifier-content">{{highlight.loc}}</div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center qualifier-content">{{highlight.loc}}</div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-right qualifier-content">{{highlight.timeFrame}}</div>
       </em>
     </div>
 
