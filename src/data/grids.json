@@ -22,9 +22,9 @@
   "skills": [{
     "rows": ["Java", "Javascript", "HTML5", "CSS3"]
   },{
-    "rows": ["PHP", "Data Markup Languages (JSON | XML | YMAL | WSDL)", "Windows Batch Script", "VBA"]
+    "rows": ["MongoDB NoSQL", "Data Markup Languages (JSON | XML | YMAL | WSDL)", "Windows Batch Script", "VBA"]
   }, {
-    "rows": ["Apache Build Scripts (Maven | Ant)", "MSSQL/MySQL", "MongoDB NoSQL", "Linux/Unix Script (KSH | SH)"]
+    "rows": ["Apache Build Scripts (Maven | Ant)", "MSSQL/MySQL", "PHP", "Linux/Unix Script (KSH | SH)"]
   }]
 }, {
   "section": "skills",

@@ -12,14 +12,15 @@
     "company": "Capital One",
     "timeFrame": "Oct 2013 - Present",
     "qualifiers": [
-      "Responsible for automating, configuring, staging, and versioning all code for the team via CI/CD platform",
-      "Developed our team's automated DevOps pipeline to work within Capital One's secure architecture",
-      "Worked successfully in mature Scrum and Kanban agile environments",
-      "Created human-centered, web-based interfaces to help visualize and manage various scaled agile-related processes using open sourced technology",
-      "Utilized and created various micro-service, enterprise, and external web APIs",
-      "Developed on MVC (model-view-controller) platform using open sourced technology stack",
-      "Responsible and trusted for educating, breifing, and providing keynotes to non-technical persons and leadership on technical subject matter",
-      "Frequently provided feedback to external agile content management software company regarding Capital One's end-user experience"
+      "Responsible for automating, configuring, staging, orchestrating, and versioning all code releases for the team via DevOps platform (Jenkins and Hudson CI/CD Servers, Nexus, Apache Servers, Apache Maven and Ant, Gulp, NodeJS, Subversion, Enterprise GitHub, Webhooks, Linux Bash and Korn Shell)",
+      "Developed our team's automated DevOps pipeline to work within Capital One's secure architecture (AWS, cCloud, Linux Red Hat)",
+      "Designed and developed high quality, scalable enterprise web applications and services using the Scrum and Kanban methodologies in a mature agile environment",
+      "Developed reactive enterprise web applications that required a strong proficiency in Core Java, Java Spring Framework (REST, MVC, Springboot, Security), Web application languages and design (AngularJS, Javascript), X-Unit (JUnit, Jasmine, Protractor), Apache Tomcat Application and Web Servers, AWS (CloudFormation, Chef), JSON, and NoSQL & SQL (MongoDB, Terradata)",
+      "Developed applications that required a strong foundation in object-oriented design, data structures, algorithms, and complexity analysis (Core Java, AngularJS, Database Indexing)",
+      "Created human-centered, web-based interfaces to help visualize and manage various scaled agile-related processes using open sourced technology (HCI GOMs and KLM modeling, see open sourced technologies in grid below)",
+      "Utilized and created various micro-service-level, enterprise-level, and external web APIs (Jira API, VersionOne API, Internal REST API utilization)",
+      "Responsible and trusted for educating, briefing, and providing keynotes to non-technical persons and leadership on technical subject matter (VBA)",
+      "Frequently provided feedback to external agile content management software company (VersionOne) regarding Capital One's end-user experience"
     ],
     "achievements": [
       "<em>Notable Achievements:</em> Contributed substantially to Capital One's first open sourced product &ndash; <a target='_blank' href='https://github.com/capitalone/Hygieia'>Hygieia</a> &ndash; released during OSCON 2015"
@@ -33,7 +34,7 @@
     "qualifiers": [
       "Managed corporate agile and waterfall portfolios across horizontal lines of businesses",
       "Responsible for managing program-level change for two large integration portfolios using Clarity and VBA tools",
-      "Automated and leaned enterprise processes using BPM certified process management tools"
+      "Automated and leaned enterprise processes using BPM certified process management tools (BPM Lifecycle, XMR, SIPOC, RACI, Process Flow, CTQ)"
     ]
   }, {
     "job": "Software Engineer",
@@ -42,30 +43,29 @@
     "company": "Capital One",
     "timeFrame": "Jun 2011 - Jun 2012",
     "qualifiers": [
-      "Created enterprise, customer-facing middleware web services",
-      "Responsible for developing middleware integration services and mapping native to canonical data models in code",
-      "Provided frequent feedback to external data modeling software company based on our end-user experience of software",
-      "Successfully operated in a agile team of new-but-growing agile maturity"
+      "Created enterprise, customer-facing middleware web services (Java Spring Framework, WSDL, SOAP)",
+      "Responsible for developing middleware integration services and mapping native to canonical data models in code (ICS Data Modeling Suite, XML Namespace, XSLT)",
+      "Developed web services that required a strong proficiency in core Java, Java Spring Framework (MVC, Security), WebServices (SOAP), JUnit, Weblogic Application Server, Oracle Service Bus, XSLT, and XML",
+      "Provided frequent feedback to external data modeling software company (ICS Data Modeling Suite) based on our end-user experience of software",
+      "Successfully operated in a new-but-maturing Scrum agile environment"
     ]
   }, {
     "job": "Other Work Experience",
-    "qualifiers": [
-      {
-        "inlineJob" : [
-          "Counter Operations",
-          "Best Buy Geek Squad",
-          "State College, PA",
-          "Jun 2009 - May 2011"
-        ]
-      }, {
-        "inlineJob" : [
-          "Learning Assistant",
-          "IST, Penn State University",
-          "State College, PA",
-          "Jan 2010 - May 2011"
-        ]
-      }
-    ]
+    "qualifiers": [{
+      "inlineJob": [
+        "Learning Assistant",
+        "IST, Penn State University",
+        "State College, PA",
+        "Jan 2010 - May 2011"
+      ]
+    }, {
+      "inlineJob": [
+        "Counter Operations",
+        "Best Buy Geek Squad",
+        "State College, PA",
+        "Jun 2009 - May 2011"
+      ]
+    }]
   }]
 }, {
   "section": "edu",
@@ -82,7 +82,7 @@
   "section": "certs",
   "highlights": [{
     "qualifiers": [
-      "Certifications: BPM",
+      "Certifications: BPM (Business Process Management)",
       "Development Methodologies/Tools:  Scrum Agile | Kanban | Gemba | Toyota/Shingo Practices | Design-Oriented Thinking | Trainer and Public Speaking experience",
       "Elementary-level Japanese language"
     ]

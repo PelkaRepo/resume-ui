@@ -106,8 +106,8 @@ h1 {
 
 .highlight {
   border-bottom: 0.2em solid #EEE;
-  padding-bottom: 1em;
-  margin-bottom: 1em;
+  padding-bottom: 0em;
+  margin-bottom: 0em;
 }
 
 .tag {
