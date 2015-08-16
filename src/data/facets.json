@@ -12,15 +12,14 @@
     "company": "Capital One",
     "timeFrame": "Oct 2013 - Present",
     "qualifiers": [
-      "Responsible for automating, configuring, staging, orchestrating, and versioning all code releases for the team via DevOps platform (Jenkins and Hudson CI/CD Servers, Nexus, Apache Servers, Apache Maven and Ant, Gulp, NodeJS, Subversion, Enterprise GitHub, Webhooks, Linux Bash and Korn Shell)",
-      "Developed our team's automated DevOps pipeline to work within Capital One's secure architecture (AWS, cCloud, Linux Red Hat)",
-      "Designed and developed high quality, scalable enterprise web applications and services using the Scrum and Kanban methodologies in a mature agile environment",
-      "Developed reactive enterprise web applications that required a strong proficiency in Core Java, Java Spring Framework (REST, MVC, Springboot, Security), Web application languages and design (AngularJS, Javascript), X-Unit (JUnit, Jasmine, Protractor), Apache Tomcat Application and Web Servers, AWS (CloudFormation, Chef), JSON, and NoSQL & SQL (MongoDB, Terradata)",
-      "Developed applications that required a strong foundation in object-oriented design, data structures, algorithms, and complexity analysis (Core Java, AngularJS, Database Indexing)",
-      "Created human-centered, web-based interfaces to help visualize and manage various scaled agile-related processes using open sourced technology (HCI GOMs and KLM modeling, see open sourced technologies in grid below)",
-      "Utilized and created various micro-service-level, enterprise-level, and external web APIs (Jira API, VersionOne API, Internal REST API utilization)",
-      "Responsible and trusted for educating, briefing, and providing keynotes to non-technical persons and leadership on technical subject matter (VBA)",
-      "Frequently provided feedback to external agile content management software company (VersionOne) regarding Capital One's end-user experience"
+      "Responsible for automating, configuring, staging, orchestrating, and versioning all code releases for the team via a Capital One secure DevOps pipeline (e.g., AWS (CloudFormation, Chef), cCloud, Linux Red Hat, Jenkins and Hudson CI/CD Servers, Nexus, Apache Servers, Apache Maven and Ant, Gulp, NodeJS, Subversion, GitHub)",
+      "Developed and Designed innovative, reactive enterprise web applications that required a strong proficiency in Core Java, Java Spring Framework (REST, MVC, Springboot, Security), Web application languages (AngularJS, Javascript), Unit Test Suites, JSON, and NoSQL & SQL (MongoDB, Teradata)",
+      "Developed applications that required a strong foundation in object-oriented design, data structures, algorithms, and complexity analysis (e.g., Java, OOD, Database Indexing)",
+      "Created human-centered, web-based interfaces to help visualize and manage various agile processes using open sourced technology (e.g, HCI GOMS and KLM modeling)",
+      "Utilized and created various micro-service-level, enterprise-level, and external web APIs (e.g., Jira API, VersionOne API, Internal REST API utilization)",
+      "Responsible and trusted for educating, briefing, and providing keynotes to non-technical persons and leadership on technical subject matter (e.g., HCI Design, OOD, VBA)",
+      "Designed and developed products using the Scrum and Kanban methodologies in a mature agile environment through Design Thinking and ATDD/TDD",
+      "Frequently provided feedback to external agile content management software company regarding Capital One's end-user experience"
     ],
     "achievements": [
       "<em>Notable Achievements:</em> Contributed substantially to Capital One's first open sourced product &ndash; <a target='_blank' href='https://github.com/capitalone/Hygieia'>Hygieia</a> &ndash; released during OSCON 2015"
@@ -34,7 +33,7 @@
     "qualifiers": [
       "Managed corporate agile and waterfall portfolios across horizontal lines of businesses",
       "Responsible for managing program-level change for two large integration portfolios using Clarity and VBA tools",
-      "Automated and leaned enterprise processes using BPM certified process management tools (BPM Lifecycle, XMR, SIPOC, RACI, Process Flow, CTQ)"
+      "Automated and leaned enterprise processes using BPM certified process management tools (e.g., BPM Lifecycle, XMR, SIPOC, RACI, Process Flow, CTQ)"
     ]
   }, {
     "job": "Software Engineer",
@@ -43,11 +42,15 @@
     "company": "Capital One",
     "timeFrame": "Jun 2011 - Jun 2012",
     "qualifiers": [
-      "Created enterprise, customer-facing middleware web services (Java Spring Framework, WSDL, SOAP)",
-      "Responsible for developing middleware integration services and mapping native to canonical data models in code (ICS Data Modeling Suite, XML Namespace, XSLT)",
-      "Developed web services that required a strong proficiency in core Java, Java Spring Framework (MVC, Security), WebServices (SOAP), JUnit, Weblogic Application Server, Oracle Service Bus, XSLT, and XML",
-      "Provided frequent feedback to external data modeling software company (ICS Data Modeling Suite) based on our end-user experience of software",
+      "Created enterprise, customer-facing middleware web services (e.g., Java Spring Framework, WSDL, SOAP)",
+      "Responsible for developing middleware integration services and mapping native to canonical data models in code (e.g., ICS Data Modeling Suite, XML Namespace, XSLT)",
+      "Developed web services that required a strong proficiency in core Java, Java Spring Framework (MVC, Security), Web Services (SOAP), JUnit, Weblogic Application Server, Oracle Service Bus, XSLT, and XML",
+      "Provided frequent feedback to external data modeling software company based on our end-user experience of software",
+      "Worked closely with offshore resources to fully test and deploy our artifacts to an enterprise, externally-facing production environment",
       "Successfully operated in a new-but-maturing Scrum agile environment"
+    ],
+    "achievements": [
+      "<em>Notable Achievements:</em> Contributor in the first team at Capital One to develop and release a customer-facing SOAP service in-house within a decade"
     ]
   }, {
     "job": "Other Work Experience",
@@ -74,8 +77,7 @@
     "timeFrame": "Graduated May 2011",
     "qualifiers": [
       "B.S. in Information Science and Technology, focused in Information Systems",
-      "B.A. in Psychology",
-      "<em>Extracurricular:</em> 4 years in the PSU Marching Blue Band"
+      "B.A. in Psychology"
     ]
   }]
 }, {
