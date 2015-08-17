@@ -4,7 +4,7 @@
   "skills": [{
     "rows": ["Spring Framework 3-4 | Springboot", "AngularJS", "Oracle Service Bus (OSB)", "Hudson CI Server"]
   }, {
-    "rows": ["Java EE", "Twitter Bootstrap", "Hudson CI Server", "Jenkins CI Server"]
+    "rows": ["Java EE", "Twitter Bootstrap", "Subversion", "Jenkins CI Server"]
   }, {
     "rows": ["LAMP", "NoSQL & Relational Database", "Docker", "Microsoft Windows"]
   }, {
@@ -14,7 +14,7 @@
   }, {
     "rows": ["REST", "Google API & OAuth2.0", "Nexus Artifact Server", "Mac OSX | Linux"]
   }, {
-    "rows": ["GitHub", "Subversion", "", ""]
+    "rows": ["GitHub", "", "", ""]
   }]
 }, {
   "section": "skills",
