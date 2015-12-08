@@ -1,6 +1,9 @@
 # cafe-ui
 Responsive resume building web UI
 
+### Status
+[![Build Status](https://travis-ci.org/PelkaRepo/resume-ui.svg)](https://travis-ci.org/PelkaRepo/resume-ui)
+
 #### Architecture
 This website uses open source technology, primarily AngularJS.
 
