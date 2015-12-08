@@ -1,4 +1,4 @@
-# cafe-ui
+# resume-ui
 Responsive resume building web UI
 
 ### Status
