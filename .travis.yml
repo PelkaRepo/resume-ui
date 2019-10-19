@@ -1,11 +1,10 @@
 language: node_js
 node_js:
   - 10
-sudo: true
+before_script:
+  - npm run prep
 cache:
   directories:
   - "$HOME/.npm"
-before_script:
-  - npm run prep
 script:
   - npm run build
