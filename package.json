@@ -4,7 +4,10 @@
   "description": "A website user interface designed generate a responsive resume UI",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prep": "npm ci --silent --no-optional && ./node_modules/.bin/bower install",
+    "build": "./node_modules/.bin/gulp build",
+    "serve": " ./node_modules/.bin/gulp default"
   },
   "repository": {
     "type": "git",

@@ -1,19 +1,56 @@
 [{
   "section": "obj",
   "highlights": [{
-    "tagLines": ["Spreading excitement and energy in human-centered design via innovative applications of modern open source technology and automation."]
+    "tagLines": ["Reducing environmental impact and unleashing human potential through Dev/Sec/Ops automation of software and processes."]
   }]
 }, {
   "section": "job",
   "highlights": [{
+    "job": "DevOps Enablement Lead",
+    "loc": "Beaverton, OR",
+    "level": "Tech Lead",
+    "company": "Nike, Inc.",
+    "timeFrame": "Aug 2018 - Present",
+    "qualifiers": [
+      "Helped teams unlock full Dev/Ops potential and deliver on <a target='_blank' href='https://news.nike.com/news/nike-consumer-direct-offense'>Nike's Triple-Double</a> objective by <u>embedding with individual teams</u> as a service",
+      "Worked cross-team and cross-organization to <u>deliver reusable Dev/Ops products and solutions</u> for both the embedded team and Nike, as a whole, as compounded-value",
+      "Upleveled teams both through 2-week hands-on, pair programming experiences and through formal workshops to unleash teams' innate capabilities as T-shaped resources",
+      "Developed products using modern, open-sourced technologies, including NodeJS, ReactJS, Terraform, Docker, and many others using the agile methodology",
+      "Delivered a production-ready, CIS/Architecture certified pipeline template, called <em>'Yasui'</em>, to an enterprise Yeoman generator platform, enabling teams to immediately develop in a serverless AWS-deployed, NERD-stack application cheaply, easily, and securely"
+    ],
+    "achievements": [
+      "<em>Notable Achievements:</em>",
+      "Worked with 5 teams successfully to implement their products to production using Yasui, which led to ~80% better control of Nike's environmental impact of materials to the public <a target='_blank' href='https://about.nike.com/pages/chemistry-restricted-substances-list'>Restricted Substance List</a> report.",
+      "Uncovered & fixed major security flaw in Nike, Inc. systems, working with security teams to develop, test, and distribute a new, safer heuristics."
+    ]
+  }, {
+    "job": "Lead Application Engineer",
+    "loc": "Beaverton, OR",
+    "level": "Tech Lead",
+    "company": "Nike, Inc.",
+    "timeFrame": "Sept 2016 - Aug 2018",
+    "qualifiers": [
+      "Responsible for co-leading 2 agile feature delivery teams to produce and scale a serverless AWS-cloud deployed <u>API and data streaming system</u>, called 'PDH', critical for sharing Nike product creation data throughout the company",
+      "Helped organize, create, and deliver the first large value-drop of PDH to production within commitments",
+      "Helped mature team to continuously improve speed/cadence of delivery, ultimately to a point of ephemeral automation (used technologies including Java Springboot, Docker, Terraform, etc.)",
+      "Helped architect and build ephemeral cloud deployments (using Jenkins 2.0 Pipeline, Bash 4.0, Python 2.7, Docker, Terraform), enabling team cooperation, quality of development, and paired-programming capabilities",
+      "Reduced the need for 'stateful' deployments and environments during testing"
+    ],
+    "achievements": [
+      "<em>Notable Achievements:</em>",
+      "Created a team-owned production support process, relieving stress from the team, ultimately improving stakeholder issue management response & deployment confidence.",
+      "Introduced end-to-end automated testing to the team (using Ruby Cucumber and Gherkin), and helped them adhere to high quality standards of continuous delivery.",
+      "Team truly owned their infrastructure as code and deployments, delivering at least every 2 weeks, aligning to sprint backlog."
+    ]
+  }, {
     "job": "Lead Software Engineer",
     "loc": "Richmond, VA",
     "level": "Sr. Associate",
     "company": "Capital One",
-    "timeFrame": "Oct 2013 - Present",
+    "timeFrame": "Oct 2013 - Sept 2016",
     "qualifiers": [
       "Responsible for automating, configuring, staging, orchestrating, and versioning all code releases for the team via a Capital One secure DevOps pipeline (e.g., AWS (CloudFormation, Chef), cCloud, Linux Red Hat, Jenkins and Hudson CI/CD Servers, Nexus, Apache Servers, Apache Maven and Ant, Gulp, NodeJS, Subversion, GitHub)",
-      "Developed and Designed innovative, reactive enterprise web applications that required a strong proficiency in Core Java, Java Spring Framework (REST, MVC, Springboot, Security), Web application languages (AngularJS, Javascript), Unit Test Suites, JSON, and NoSQL & SQL (MongoDB, Teradata)",
+      "Developed and Designed innovative, <u>reactive enterprise web applications</u> that required a strong proficiency in Core Java, Java Spring Framework (REST, MVC, Springboot, Security), Web application languages (AngularJS, Javascript), Unit Test Suites, JSON, and NoSQL & SQL (MongoDB, Teradata)",
       "Developed applications that required a strong foundation in object-oriented design, data structures, algorithms, and complexity analysis (e.g., Java, OOD, Database Indexing)",
       "Created human-centered, web-based interfaces to help visualize and manage various agile processes using open sourced technology (e.g, HCI GOMS and KLM modeling)",
       "Utilized and created various micro-service-level, enterprise-level, and external web APIs (e.g., Jira API, VersionOne API, Internal REST API utilization)",
@@ -33,7 +70,7 @@
     "qualifiers": [
       "Managed corporate agile and waterfall portfolios across horizontal lines of businesses",
       "Responsible for managing program-level change for two large integration portfolios using Clarity and VBA tools",
-      "Automated and leaned enterprise processes using BPM certified process management tools (e.g., BPM Lifecycle, XMR, SIPOC, RACI, Process Flow, CTQ)"
+      "Automated and <u>leaned enterprise processes</u> using BPM certified process management tools (e.g., BPM Lifecycle, XMR, SIPOC, RACI, Process Flow, CTQ)"
     ]
   }, {
     "job": "Software Engineer",
@@ -42,7 +79,7 @@
     "company": "Capital One",
     "timeFrame": "Jun 2011 - Jun 2012",
     "qualifiers": [
-      "Created enterprise, customer-facing middleware web services (e.g., Java Spring Framework, WSDL, SOAP)",
+      "Created enterprise, <u>customer-facing middleware web services</u> (e.g., Java Spring Framework, WSDL, SOAP)",
       "Responsible for developing middleware integration services and mapping native to canonical data models in code (e.g., ICS Data Modeling Suite, XML Namespace, XSLT)",
       "Developed web services that required a strong proficiency in core Java, Java Spring Framework (MVC, Security), Web Services (SOAP), JUnit, Weblogic Application Server, Oracle Service Bus, XSLT, and XML",
       "Provided frequent feedback to external data modeling software company based on our end-user experience of software",
@@ -85,7 +122,8 @@
   "highlights": [{
     "qualifiers": [
       "Certifications: BPM (Business Process Management)",
-      "Development Methodologies/Tools:  Scrum Agile | Kanban | Gemba | Toyota/Shingo Practices | Design-Oriented Thinking | Trainer and Public Speaking experience",
+      "Nike, Inc. college campus recruiter and intern coach for the Hack72 hackathon annual event",
+      "Amphibian egg mass survey volunteer (annually since 2017) with Portland Metro-area to observe & measure amphibian populations to understand human impact",
       "Elementary-level Japanese language"
     ]
   }]

@@ -1,30 +1,30 @@
 [{
   "section": "skills",
-  "categories": "Platforms / OS",
+  "categories": "Platforms / OS / Heuristics",
   "skills": [{
-    "rows": ["Spring Framework 3-4 | Springboot", "AngularJS", "Oracle Service Bus (OSB)", "Hudson CI Server"]
+    "rows": ["Spring Framework 3-4 | Springboot | Java EE", "AngularJS 1.x", "ReactJS 14+", "Jenkins 2.0 CI Server"]
   }, {
-    "rows": ["Java EE", "Twitter Bootstrap", "Subversion", "Jenkins CI Server"]
+    "rows": ["ATDD/TDD in practice within CI/CD", "Twitter Bootstrap", "Subversion", "Git & GitHub"]
   }, {
-    "rows": ["LAMP", "NoSQL & Relational Database", "Docker", "Microsoft Windows"]
+    "rows": ["LAMP", "NoSQL & Relational Database", "DERN/NERD", "Microsoft Windows"]
   }, {
-    "rows": ["Bower", "NodeJS", "Gulp", "Jasmine"]
+    "rows": ["Bower | Gulp | Grunt", "NodeJS", "GOMS/KLM HCI Modeling", "Jasmine"]
   }, {
-    "rows": ["Karma", "Cordova / PhoneGap", "JUnit", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
+    "rows": ["NPM", "AWS Cloud (Lambda | API GW | VPC | IAM)", "JUnit", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
   }, {
-    "rows": ["REST", "Google API & OAuth2.0", "Nexus Artifact Server", "Mac OSX | Linux"]
-  }, {
-    "rows": ["GitHub", "", "", ""]
+    "rows": ["REST", "OAuth2.0 | Okta", "Nexus & Artifactory Artifact Server", "Mac OSX | Linux"]
+  },{
+    "rows": ["Scrum Agile | Kanban", "Gemba | Toyota/Shingo Practices", "Design-Thinking", "Training & Public Speaking experience"]
   }]
 }, {
   "section": "skills",
   "categories": "Coding Languages",
   "skills": [{
-    "rows": ["Java", "Javascript", "HTML5", "CSS3"]
+    "rows": ["Java", "Javascript | NodeJS | NPM", "HTML5", "CSS3"]
   },{
-    "rows": ["MongoDB NoSQL", "Data Markup Languages (JSON | XML | YMAL | WSDL)", "Windows Batch Script", "VBA"]
+    "rows": ["MongoDB & DynamoDB NoSQL", "Data Markup Languages (JSON | XML | YAML | WSDL | INI)", "Windows Batch Script", "VBA"]
   }, {
-    "rows": ["Apache Build Scripts (Maven | Ant)", "MSSQL/MySQL", "PHP", "Linux/Unix Script (KSH | SH)"]
+    "rows": ["Apache Build Scripting (Maven | Ant)", "MSSQL/MySQL", "Gradle Build Scripting", "Linux/Unix Script (BASH | SH)"]
   }]
 }, {
   "section": "skills",
@@ -32,8 +32,8 @@
   "skills": [{
     "rows": ["Eclipse IDE", "IntelliJ", "All Microsoft Office Applications"]
   },{
-    "rows": ["Tableau Desktop", "ICS Data Modeler", "Agile Suites (Jira | VersionOne)"]
+    "rows": ["Tableau Desktop", "Browser Development Tools", "Agile Suites (Jira | VersionOne | Trello)"]
   }, {
-    "rows": ["Atom IDE", "R Statistical Software", "Browser Development Tools"]
+    "rows": ["Atom IDE", "R Statistical Software", "Kubernetes kubectl | Docker"]
   }]
 }]

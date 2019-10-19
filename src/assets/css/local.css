@@ -137,3 +137,8 @@ h1 {
   font-size: 0.9em;
   top: -3em;
 }
+
+mark {
+  background-color: #D3D3D3;
+  color: black;
+}

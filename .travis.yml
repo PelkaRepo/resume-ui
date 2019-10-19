@@ -1,8 +1,5 @@
 language: node_js
 sudo: true
-before_script:
-  - "npm install -g gulp"
-  - "npm install -g bower"
 script:
-  - "npm install -no-optional"
-  - "gulp build"
+  - "npm run prep"
+  - "npm run build"
