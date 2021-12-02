@@ -34,6 +34,6 @@
   },{
     "rows": ["Tableau Desktop", "Browser Development Tools", "Agile Suites (Jira | VersionOne | Trello)"]
   }, {
-    "rows": ["Atom IDE", "R Statistical Software", "Kubernetes kubectl | Docker"]
+    "rows": ["Apache Nifi", "R Statistical Software", "Kubernetes kubectl | Docker"]
   }]
 }]

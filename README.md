@@ -2,7 +2,7 @@
 Responsive resume building web UI
 
 ### Status
-[![Build Status](https://travis-ci.org/PelkaRepo/resume-ui.svg)](https://travis-ci.org/PelkaRepo/resume-ui)
+[![Build Status](https://travis-ci.com/PelkaRepo/resume-ui.svg)](https://travis-ci.com/PelkaRepo/resume-ui)
 
 #### Architecture
 This website uses open source technology, primarily AngularJS.
@@ -21,7 +21,7 @@ Mac <em>(via Homebrew package manager)</em>:
 	npm install bower -g
 	npm install gulp -g
 
-	npm install
+	npm ci --no-optional
 	bower install
 
 <br/>
@@ -34,7 +34,7 @@ Windows:
 	npm install bower -g
 	npm install gulp -g
 
-	npm install
+	npm ci --no-optional
 	bower install
 
 #### Compile & Deploy

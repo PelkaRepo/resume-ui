@@ -6,11 +6,31 @@
 }, {
   "section": "job",
   "highlights": [{
+    "job": "Principal Software Engineer",
+    "loc": "Beaverton, OR",
+    "level": "Principal Software Engineer",
+    "company": "Nike, Inc.",
+    "timeFrame": "June 2020 - present",
+    "qualifiers": [
+      "Elevate the Digital Manufacturing organiation of Nike as an engineering organization by directing and proving engineering platform patterns and establishing engineering practices",
+      "Work with internal security and architecture partners to guide the engineering practices of all applications, new and old, in Digital Manufacturing across all application lifecycles",
+      "Bring collaboration agross the organization by engaging engineers with communities of practice, highlighting successful collabs in leadership discussions, and guide Agile Release Train-level efforts",
+      "Provided tested points of view and guidance to upper leadership in organization when engineering decisions and positions needed to be made - <em>I was the org's voice of the engineer</em>",
+      "Helped engineers work through issues, architect, and program complex data flow and user experience systems in the cloud in MS Azure, AWS, and on-premises systems",
+      "Helped evangelize security education, successfully getting both engineering participation in CoE's and Security Hackathons, as well as helping to tactically remove known risks to Nike in our application landscape"
+    ],
+    "achievements": [
+      "<em>Notable Achievements:</em>",
+      "Moved a PoC to a production platform that is helping Nike gather Tier 1 / Tier 2 data from manufacturing partners to help drive near real-time decisions, and help identify areas of poor data quality.",
+      "This system immediately removed a real threat to Nike's product safety/quality by way of automation.",
+      "Secured project and a large-scale set of teams to deliver on platform's growth of the next several fiscal years."
+    ]
+  }, {
     "job": "DevOps Enablement Lead",
     "loc": "Beaverton, OR",
     "level": "Tech Lead",
     "company": "Nike, Inc.",
-    "timeFrame": "Aug 2018 - Present",
+    "timeFrame": "Aug 2018 - June 2020",
     "qualifiers": [
       "Helped teams unlock full Dev/Ops potential and deliver on <a target='_blank' href='https://news.nike.com/news/nike-consumer-direct-offense'>Nike's Triple-Double</a> objective by <u>embedding with individual teams</u> as a service",
       "Worked cross-team and cross-organization to <u>deliver reusable Dev/Ops products and solutions</u> for both the embedded team and Nike, as a whole, as compounded-value",
@@ -124,7 +144,7 @@
       "Certifications: BPM (Business Process Management)",
       "Nike, Inc. college campus recruiter and intern coach for the Hack72 hackathon annual event",
       "Amphibian egg mass survey volunteer (annually since 2017) with Portland Metro-area to observe & measure amphibian populations to understand human impact",
-      "Elementary-level Japanese language"
+      "Elementary-level conversational/written Japanese language"
     ]
   }]
 }]
