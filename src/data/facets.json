@@ -7,10 +7,31 @@
   "section": "job",
   "highlights": [{
     "job": "Principal Software Engineer",
+    "loc": "Portland, OR",
+    "level": "Principal Software Engineer",
+    "company": "Autodesk, Inc.",
+    "timeFrame": "March 2022 - present",
+    "qualifiers": [
+      "Developed solutions and supported capabilities for a highly complex Observability platform used by most of Autodesk",
+      "Delivered critical components for an alert notification framework supporting the Observability platform",
+      "Incorporated infrastructure and unit testing quality improvements into key Observability platform capabilities, introducing focus on quality in DevSecOps excellence in the team",
+      "Lead a team towards efficiency in delivery by incorporating process improvement principles of Kanban, SixSigma, Agile Scrum",
+      "Collaborated across organizations and lead technical effort for selecting next-generation Observability platform, providing technical recommendations to leadership",
+      "Delivered SDLC metrics and insights capabilities via Faros AI to Autodesk",
+      "Responded successfully to paged incident remediation and customer support / administration as needed"
+    ],
+    "achievements": [
+      "<em>Notable Achievements:</em>",
+      "<strong>Influenced:</strong> Successfully helped a team understand their actual velocity / WIP, ultimately increasing the teams size to meet business need where it was needed most as an acting Scrum Champion",
+      "<strong>Delivered</strong> Amazon Managed Grafana and Prometheus (AMP) Observability infrastructure automation under FedRAMP compliance restrictions under pressure of encroaching time deadline",
+      "<strong>Implemented</strong> AWS Cognito to AD via SAML security wrapper for ETL system (Airbyte), allowing for authorized administration of sensitive data transport to Faros AI"
+    ]
+  }, {
+    "job": "Principal Software Engineer",
     "loc": "Beaverton, OR",
     "level": "Principal Software Engineer",
     "company": "Nike, Inc.",
-    "timeFrame": "June 2020 - present",
+    "timeFrame": "June 2020 - February 2022",
     "qualifiers": [
       "Elevate the Digital Manufacturing organization of Nike as an engineering organization by directing and proving engineering platform patterns and establishing engineering practices",
       "Work with internal security and architecture partners to guide the engineering practices of all applications, new and old, in Digital Manufacturing across all application lifecycles",

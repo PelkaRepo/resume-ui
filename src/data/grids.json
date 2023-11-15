@@ -2,7 +2,7 @@
   "section": "skills",
   "categories": "Platforms / OS / Heuristics",
   "skills": [{
-    "rows": ["Spring Framework 3-4 | Springboot | Java EE", "AngularJS 1.x", "ReactJS 14+", "Jenkins 2.0 CI Server"]
+    "rows": ["Spring Framework 3-4 | Springboot | Java EE", "AngularJS 1.x", "ReactJS 14+", "Jenkins | Spinnaker | TravisCI"]
   }, {
     "rows": ["ATDD/TDD in practice within CI/CD", "Twitter Bootstrap", "Subversion", "Git & GitHub"]
   }, {
@@ -10,8 +10,10 @@
   }, {
     "rows": ["Bower | Gulp | Grunt", "NodeJS", "GOMS/KLM HCI Modeling", "Jasmine"]
   }, {
-    "rows": ["NPM", "AWS Cloud (Lambda | API GW | VPC | IAM)", "JUnit", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
-  }, {
+    "rows": ["NPM", "AWS Cloud (λ | API GW | VPC | IAM | Cognito | EC2 | AMP | AWS Grafana)", "JUnit", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
+  },{
+    "rows": ["Python", "Terraform", "Pytest", "Terratest"]
+  },{
     "rows": ["REST", "OAuth2.0 | Okta", "Nexus & Artifactory Artifact Server", "Mac OSX | Linux"]
   },{
     "rows": ["Scrum Agile | Kanban", "Gemba | Toyota/Shingo Practices", "Design-Thinking", "Training & Public Speaking experience"]
@@ -20,20 +22,22 @@
   "section": "skills",
   "categories": "Coding Languages",
   "skills": [{
-    "rows": ["Java", "Javascript | NodeJS | NPM", "HTML5", "CSS3"]
+    "rows": ["Java", "Javascript | NodeJS | NPM", "HTML5 | CSS3", "Python"]
   },{
     "rows": ["MongoDB & DynamoDB NoSQL", "Data Markup Languages (JSON | XML | YAML | WSDL | INI)", "Windows Batch Script", "VBA"]
   }, {
-    "rows": ["Apache Build Scripting (Maven | Ant)", "MSSQL/MySQL", "Gradle Build Scripting", "Linux/Unix Script (BASH | SH)"]
+    "rows": ["Apache Build Scripting (Maven | Ant)", "MSSQL/MySQL", "Gradle Build Scripting", "Linux/Unix Script (BASH | SH | ZSH)"]
   }]
 }, {
   "section": "skills",
   "categories": "Relevant Tools",
   "skills": [{
-    "rows": ["Eclipse IDE", "IntelliJ", "All Microsoft Office Applications"]
+    "rows": ["IDEs: (Eclipse IDE, IntelliJ, VSCode)", "All Microsoft Office Applications", "PagerDuty Rotation"]
   },{
     "rows": ["Tableau Desktop", "Browser Development Tools", "Agile Suites (Jira | VersionOne | Trello)"]
   }, {
     "rows": ["Apache Nifi", "R Statistical Software", "Kubernetes kubectl | Docker"]
+  }, {
+    "rows": ["Splunk", "Faros AI", "Prometheus | Grafana"]
   }]
 }]
