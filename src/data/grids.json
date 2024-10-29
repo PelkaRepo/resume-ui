@@ -8,9 +8,9 @@
   }, {
     "rows": ["LAMP", "NoSQL & Relational Database", "DERN/NERD", "Microsoft Windows"]
   }, {
-    "rows": ["Bower | Gulp | Grunt", "NodeJS", "GOMS/KLM HCI Modeling", "Jasmine"]
+    "rows": ["Bower | Gulp | Grunt", "NodeJS", "GOMS/KLM HCI Modeling", "Typescript"]
   }, {
-    "rows": ["NPM", "AWS Cloud (λ | API GW | VPC | IAM | Cognito | EC2 | AMP | AWS Grafana)", "JUnit", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
+    "rows": ["NPM | NPX | Yarn", "AWS Cloud (λ | API GW | VPC | IAM | Cognito | EC2 | AMP | AWS Grafana)", "JUnit | Jest | Pytest", "OS Package Mgrs (Homebrew | Yum | Chocolatey | Apt-Get)"]
   },{
     "rows": ["Python", "Terraform", "Pytest", "Terratest"]
   },{
