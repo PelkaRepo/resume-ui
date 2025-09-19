@@ -39,5 +39,7 @@
     "rows": ["Apache Nifi", "R Statistical Software", "Kubernetes kubectl | Docker"]
   }, {
     "rows": ["Splunk", "Faros AI", "Prometheus | Grafana"]
+  }, {
+    "rows": ["ChatGPT", "Copilot", "AI Bot Use/Development"]
   }]
 }]
