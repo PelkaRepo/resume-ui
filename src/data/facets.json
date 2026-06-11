@@ -21,7 +21,8 @@
       "Developed and contributed to inner-sourced <a href='https://github.com/backstage/backstage' target='_blank'>Backstage</a> implementation to share a Synthetics capability cross-organization via central developer platform portal",
       "Integrated and enabled <a href='https://opentelemetry.io/' target='_blank'>OpenTelemetry (OTel)</a> in ADSK observability tooling",
       "Enhanced and stabilized aging bespoke telemetry stacks in various languages and frameworks (e.g., Prometheus and Grafana managed via Django/Flask/Redis/AWS Lambda) to ensure minimal downtime and continuing support until modern solutions could be implemented",
-      "Responded successfully to paged incident remediation and customer support / administration as needed on 24/7 week-long rotations (~3 pages a week at worst)"],
+      "Responded successfully to paged incident remediation and customer support / administration as needed on 24/7 week-long rotations (~3 pages a week at worst)",
+      "Utilized modern AI-driven tooling, such as MS Copilot and ChatGPT to facilitate the SDLC"],
     "achievements": [
       "<em>Notable Achievements:</em>",
       "<strong>Influenced:</strong> Successfully helped a team understand their actual velocity / WIP, ultimately increasing the teams size to meet business need where it was needed most as an acting Scrum Champion",
